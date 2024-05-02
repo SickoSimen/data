@@ -3,7 +3,7 @@ import numpy as np
 from monai.data import CacheDataset
 import re
 
-
+# Spcify the root directory of the dataset
 root_dir = "/datasets/tdt4265/mic/asoca"
 
 
